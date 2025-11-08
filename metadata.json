@@ -1,0 +1,5 @@
+{
+  "name": "Food Metabolism Simulator",
+  "description": "An interactive web application that simulates human digestion, nutrient absorption, and early metabolic processing based on a detailed physiological model. Input a meal's composition and visualize the dynamic changes in nutrient levels across various body compartments like the stomach, intestine, blood, and liver.",
+  "requestFramePermissions": []
+}
